@@ -1,0 +1,5 @@
+line-bot-sdk
+flask
+paho-mqtt
+
+#pip install -r requirements.txt
